@@ -56,7 +56,7 @@ Screen (collectAsState)
 
 - Android Studio Meerkat or later
 - Android SDK 26+
-- A [Gemini API key](https://aistudio.google.com/apikey) (free tier available)
+- A [Gemini API key](https://aistudio.google.com/apikey) (free tier)
 
 ### Setup
 
