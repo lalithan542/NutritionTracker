@@ -1,0 +1,12 @@
+# Copy this file to gradle.properties and fill in your values.
+# gradle.properties is git-ignored and must never be committed.
+
+org.gradle.jvmargs=-Xmx2048m -Dfile.encoding=UTF-8
+android.useAndroidX=true
+kotlin.code.style=official
+android.nonTransitiveRClass=true
+org.gradle.configuration-cache=true
+
+# Gemini API key — obtain from https://aistudio.google.com/apikey
+# Requires billing enabled on the associated Google Cloud project.
+GEMINI_API_KEY=your_gemini_api_key_here
